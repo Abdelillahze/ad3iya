@@ -79,4 +79,4 @@ function generate() {
 }
 generate();
 
-douaa.addEventListener("click", generate);
+document.body.addEventListener("click", generate);
